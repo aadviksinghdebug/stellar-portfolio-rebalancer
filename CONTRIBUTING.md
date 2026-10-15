@@ -10,7 +10,6 @@ The full contributor setup guide is at **[docs/CONTRIBUTING.md](docs/CONTRIBUTIN
 
 It covers:
 
-- Minimum local setup (backend + frontend)
 - Optional services: PostgreSQL, Redis, SMTP
 - Database migrations (PostgreSQL and SQLite paths)
 - Running backend and frontend tests
